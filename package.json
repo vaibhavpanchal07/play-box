@@ -7,5 +7,8 @@
     "dev": "nodemon src/index.js"
   },
   "author": "Vaibhav Panchal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
